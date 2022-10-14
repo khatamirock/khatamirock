@@ -28,9 +28,9 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working with Nodejs, React, <br /> Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/).
+- 💬 &nbsp; Ask me about anything [here](https:///issues/2)! I am happy to help.
+- 📫 &nbsp; How to reach me: khatamionik@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
@@ -62,7 +62,7 @@ Like My Work?
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
@@ -70,7 +70,7 @@ Like My Work?
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=&hide_border=true" />
 </details>
 
 <details>
