@@ -4,7 +4,7 @@
 ## Hey 👋, I'm [Muhammad Khatami!](https://github.com/khatamirock/)
 
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://khatamirock.github.io)
 [![Twitter Badge](htgandhi)
 [![Instagram Badge](https://img./)
 [![Telegram Badge](https://imghi)
