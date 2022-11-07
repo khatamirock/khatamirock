@@ -24,8 +24,8 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, React, <br /> Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with Nodejs, <br /> Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Backend Development and Algorithm implementation in LEETCODE!!!.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/).
 - 💬 &nbsp; Ask me about anything [here](https:///issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: khatamionik@gmail.com.
@@ -124,7 +124,7 @@ Like My Work?
   <br />
 </details>
  
-<details>	
+<!-- <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -137,7 +137,7 @@ Like My Work?
 	    <br />
 	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
-</details>
+</details> -->
 
 #
 
