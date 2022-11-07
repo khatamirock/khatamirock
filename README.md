@@ -1,17 +1,15 @@
-### Hi there 👋
-## I'm Khatami
 
 ## Hey 👋, I'm [Muhammad Khatami!](https://github.com/khatamirock/)
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://khatamirock.github.io)
-[![Twitter Badge](htgandhi)
+[![Twitter Badge](htgdhi)
 [![Instagram Badge](https://img./)
 [![Telegram Badge](https://imghi)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from RUET !! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a graduate in Computer Science 🎓 from ##RUET !! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 Joined Github **3** years ago.
 
@@ -31,7 +29,7 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/).
 - 💬 &nbsp; Ask me about anything [here](https:///issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: khatamionik@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com//blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
