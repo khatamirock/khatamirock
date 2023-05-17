@@ -3,9 +3,9 @@
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mkhatami.netlify.app/)
-[![Twitter Badge](htgdhi)
+<!-- [![Twitter Badge](htgdhi)
 [![Instagram Badge](https://img./)
-[![Telegram Badge](https://imghi)
+[![Telegram Badge](https://imghi) -->
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
